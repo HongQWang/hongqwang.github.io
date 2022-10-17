@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. School of computer science and technology, Shandong University of technology, 2014 - 2018
+* M.S. School of software, Beihang University, 2019 - 2022
+* Ph.D School of software, Beihang University, 2022 - now
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct,2021,Computer vision intern, Baidu
+* Aug,2021,Computer vision intern, Nio
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Operate system kernel
+* Computer vision
+  * Object detection
+  * Generative Adversarial Networks 
+  * Video anomaly detection
+  * ...
+* Java Web
 
 Publications
 ======
