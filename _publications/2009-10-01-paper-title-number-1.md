@@ -8,8 +8,8 @@ venue: '2022 7th International Conference on Image, Vision and Computing (ICIVC)
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9886277'
 citation: 'Cao Y, Pan H, Wang H, et al. Small Object Detection Algorithm for Railway Scene[C]//2022 7th International Conference on Image, Vision and Computing (ICIVC). IEEE, 2022: 100-105.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9886277">Paper<a/>
 
-[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9886277)
+<!-- [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9886277) -->
 
 Recommended citation: Cao Y, Pan H, Wang H, et al. Small Object Detection Algorithm for Railway Scene[C]//2022 7th International Conference on Image, Vision and Computing (ICIVC). IEEE, 2022: 100-105.
