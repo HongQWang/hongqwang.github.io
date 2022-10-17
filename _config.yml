@@ -85,11 +85,10 @@ author:
   bio              : "Talk is cheap, show me your PPT!"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xcZhva8AAAAJ&hl=zh-CN"
   email            : wanghongqiang@buaa.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  wechat           : wangstone666666
   # uri              :
   # bitbucket        :
   # codepen          :
