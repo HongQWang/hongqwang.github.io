@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hongqiang.Wang"
+title                    : "Hongqiang.Wang's Homepage"
 title_separator          : "-"
 name                     : &name "HongqiangWang"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=xcZhva8AAAAJ&hl=zh-CN"
   email            : wanghongqiang@buaa.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/HongQWang"
   google_plus      :
   keybase          :
   instagram        :
